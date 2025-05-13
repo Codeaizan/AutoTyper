@@ -23,7 +23,7 @@ A powerful and customizable desktop automation tool that auto-types user-defined
 Install the required Python libraries:
 
 ```bash
-pip install pynput keyboard
+pip install -r requirements.txt
 ```
 
 ▶️ How to Run
